@@ -29,7 +29,8 @@
         हिंदी में कॉपी पेस्ट कर के लिखना अत्यंत कठिन है। नारायण नारायण। <br>
         <a href="/knowYourRoots.hhm/months/months.html">मास के नाम</a> <br>
         <a href="/knowYourRoots.hhm/politics/politics.html">raja ke darbaar ke bhitar</a> <br>
-        <a href="/knowYourRoots.hhm/tithi/tithiMahima.html">tithi mahima</a>
+        <a href="/knowYourRoots.hhm/tithi/tithiMahima.html">tithi mahima</a> <br>
+        <a href="/knowYourRoots.hhm/scriptures/scriptures.html">scriptures</a>
     </main>
     <hr>
     <footer>
