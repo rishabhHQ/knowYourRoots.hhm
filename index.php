@@ -31,6 +31,7 @@
         <a href="/knowYourRoots.hhm/politics/politics.html">raja ke darbaar ke bhitar</a> <br>
         <a href="/knowYourRoots.hhm/tithi/tithiMahima.html">tithi mahima</a> <br>
         <a href="/knowYourRoots.hhm/scriptures/scriptures.html">scriptures</a>
+        <a href="/knowYourRoots.hmm/jyotish">comin soon</a>
     </main>
     <hr>
     <footer>
