@@ -43,7 +43,7 @@
         $currentIST = date('Y');
 
         // Display the result
-        echo "All rights reserved (idk y to write this)" . $currentIST;
+        echo "&COPY" . $currentIST . " All rights reserved (idk y ppl write this w'll research later on)";
         ?>
     </footer>
 
