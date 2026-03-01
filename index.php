@@ -35,7 +35,16 @@
     </main>
     <hr>
     <footer>
-        this is footer
+        <?php
+        // Set the default timezone to IST (Asia/Kolkata)
+        date_default_timezone_set('Asia/Kolkata');
+
+        // Get current date and time in IST
+        $currentIST = date('Y');
+
+        // Display the result
+        echo "All rights reserved (idk y to write this)" . $currentIST;
+        ?>
     </footer>
 
 
