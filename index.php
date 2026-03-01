@@ -8,7 +8,8 @@
 </head>
 <body id="forTheme">
 
-    <header>this is header <br>
+    <header>
+    <h1>Riyal Roots With Proofs</h1>
     <a href="index.html">home</a>
     <div>
         <?php
@@ -21,6 +22,7 @@
         // Display the result
         echo "Current Time: " . $currentIST;
         ?>
+        <p>w'll add script to update time in real time later on..</p>
     </div>
     </header>
     <hr>
