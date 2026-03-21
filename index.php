@@ -34,6 +34,7 @@
         <a href="/knowYourRoots.hhm/tithi/tithiMahima.html">tithi mahima</a> <br>
         <a href="/knowYourRoots.hhm/scriptures/scriptures.html">scriptures</a> <br>
         <a href="/knowYourRoots.hmm/jyotish">comin soon</a>
+        <a <a href="#">comin soon</a>
     </main>
     <hr>
     <footer>
